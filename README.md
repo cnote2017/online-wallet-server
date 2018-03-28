@@ -1,5 +1,5 @@
 # online-wallet-server
-Release 1.0 - Demo Mode
+Release 1.0 - Demo Mode - Test Net Only
 
 Node.JS script to host online wallet.
 
